@@ -1,2 +1,2 @@
-0.0.0.0 lichess.org
-0.0.0.0 chess.com
+||lichess.org^
+||chess.com^
